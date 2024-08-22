@@ -1,0 +1,6 @@
+Flask==2.3.2             # Web uygulamaları için hafif bir framework
+gunicorn==20.1.0         # Flask uygulamasını üretim ortamında çalıştırmak için WSGI HTTP sunucusu
+requests==2.31.0         # HTTP istekleri yapmak için kullanılan bir kütüphane
+numpy==1.24.2            # Bilimsel hesaplamalar için kullanılan bir kütüphane (opsiyonel)
+pandas==1.5.3            # Veri analizi için kullanılan bir kütüphane (opsiyonel)
+azure-functions==1.12.0  # Azure Functions geliştirmek için (eğer Azure Functions kullanıyorsanız)
